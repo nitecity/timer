@@ -11,5 +11,5 @@
  ```
 - If it's Bash
  ```
-  0 * * * * bash /root/tradingbot/example.sh
+  0 * * * * bash /path/to/script/example.sh
  ```
